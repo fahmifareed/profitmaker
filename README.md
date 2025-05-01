@@ -117,17 +117,33 @@ online](https://app.swaggerhub.com/apis-docs/soloviofff/kupi.network/1.0.0)
 
 ## Team
 
--   Eugen Soloviov [github](https://github.com/suenot) [facebook](https://www.facebook.com/soloviov.evgeniy)
--   Sergey Soloviov [github](https://github.com/soloviofff)
--   Igor Korotin [github](https://github.com/markolofsen)
--   Vladimir Romanovich [github](https://github.com/ibnteo)
+-   Eugen Soloviov [github](https://github.com/suenot) [telegram](https://t.me/suenot) [facebook](https://www.facebook.com/soloviov.evgeniy) - maintainer
+-   Sergey Soloviov [github](https://github.com/soloviofff) - contributor
+-   Igor Korotin [github](https://github.com/markolofsen) - contributor
 
 ## Contact Us
 
-For business inquiries contact with [Eugen Soloviov](https://www.facebook.com/soloviov.evgeniy)
+For business inquiries contact with [Eugen Soloviov](https://t.me/suenot)
 
 ## Sponsored Promotion
 
-Want this place? Contact with [Eugen Soloviov](https://www.facebook.com/soloviov.evgeniy/) 
+Want this place? Contact with [Eugen Soloviov](https://t.me/suenot)
 
 ![Placehodler](https://user-images.githubusercontent.com/1707/48204972-43569e00-e37c-11e8-9cf3-b86e3dc19ee9.png)
+
+## Licensing
+Profitmaker is licensed under the MIT License with Commons Clause. This means you can:
+
+✅ Allowed:
+- Use Task Master for any purpose (personal, commercial, academic)
+- Modify the code
+- Distribute copies
+- Create and sell products built using Task Master
+
+❌ Not Allowed:
+- Sell Task Master itself
+- Offer Task Master as a hosted service
+- Create competing products based on Task Master
+
+See the [LICENSE](./LICENSE.md) file for the complete license text. For commercial licensing or questions about permitted use, you can always contact Eugen Soloviov via [Telegram](https://t.me/suenot) or by [email](mailto:suenot@gmail.com).
+
