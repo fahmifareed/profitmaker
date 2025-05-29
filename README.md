@@ -135,15 +135,15 @@ Want this place? Contact with [Eugen Soloviov](https://t.me/suenot)
 Profitmaker is licensed under the MIT License with Commons Clause. This means you can:
 
 ✅ Allowed:
-- Use Task Master for any purpose (personal, commercial, academic)
+- Use Profitmaker for any purpose (personal, commercial, academic)
 - Modify the code
 - Distribute copies
-- Create and sell products built using Task Master
+- Create and sell products built using Profitmaker
 
 ❌ Not Allowed:
-- Sell Task Master itself
-- Offer Task Master as a hosted service
-- Create competing products based on Task Master
+- Sell Profitmaker itself
+- Offer Profitmaker as a hosted service
+- Create competing products based on Profitmaker
 
 See the [LICENSE](./LICENSE.md) file for the complete license text. For commercial licensing or questions about permitted use, you can always contact Eugen Soloviov via [Telegram](https://t.me/suenot) or by [email](mailto:suenot@gmail.com).
 
