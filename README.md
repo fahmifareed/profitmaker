@@ -145,5 +145,5 @@ Profitmaker is licensed under the MIT License with Commons Clause. This means yo
 - Offer Profitmaker as a hosted service
 - Create competing products based on Profitmaker
 
-See the [LICENSE](./LICENSE.md) file for the complete license text. For commercial licensing or questions about permitted use, you can always contact Eugen Soloviov via [Telegram](https://t.me/suenot) or by [email](mailto:suenot@gmail.com).
+See the [LICENSE](./LICENSE) file for the complete license text. For commercial licensing or questions about permitted use, you can always contact Eugen Soloviov via [Telegram](https://t.me/suenot) or by [email](mailto:suenot@gmail.com).
 
