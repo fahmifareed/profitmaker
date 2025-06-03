@@ -5,7 +5,7 @@ Effective date: April 10, 2019
 Profitmaker ("us", "we", or "our") operates:
 
 - [https://profitmaker.cc/](https://profitmaker.cc/)
-- [https://marketmaker.cc](https://marketmaker.cc/)
+- [https://marketmaker.cc/](https://marketmaker.cc/)
 
 websites (the "Services").
 
