@@ -2,12 +2,10 @@
 
 Effective date: April 10, 2019
 
-Kupi Network ("us", "we", or "our") operates:
+Profitmaker ("us", "we", or "our") operates:
 
-- [https://kupi.network/](https://kupi.network/)
-- [https://www.kupi.network](https://www.kupi.network)
-- [https://vue.kupi.network](https://vue.kupi.network)
-- [https://www.vue.kupi.network](https://www.vue.kupi.network)
+- [https://profitmaker.cc/](https://profitmaker.cc/)
+- [https://marketmaker.cc](https://marketmaker.cc/)
 
 websites (the "Services").
 
@@ -85,4 +83,4 @@ We can store and disclose your information to law enforcement authorities, state
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- By email: [info@kupi.network](mailto:info@kupi.network)
+- By email: [suenot@gmail.com](mailto:suenot@gmail.com)
