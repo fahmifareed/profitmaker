@@ -7,7 +7,7 @@ Open source, customized, extendable trading terminal that supports 130+
 crypto exchanges.
 
 # Important announcement
-I started the new full rewrite of the project. It will be more stable, more secure and more flexible. You can check it [v2.0.0-dev](https://github.com/suenot/profitmaker/tree/v2.0.0-dev) github branch. I am going to finish stable version in 2024. I will be happy to see you there. Welcome to discuss details in [discord](https://discord.com/invite/2PtuMAg).
+I started the new full rewrite of the project. It will be more stable, more secure and more flexible. You can check it [v3](https://github.com/suenot/profitmaker/tree/v3) github branch. I am going to finish stable version in July of 2025. I will be happy to see you there. Welcome to discuss details in [discord](https://discord.com/invite/2PtuMAg).
 
 I announced two version:
 - Open source crypto terminal, and server part for custom metrcs/analytics: [https://profitmaker.cc/](https://profitmaker.cc/)
